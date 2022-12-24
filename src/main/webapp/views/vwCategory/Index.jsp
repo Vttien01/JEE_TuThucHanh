@@ -9,7 +9,7 @@
     <jsp:body>
         <div class="card">
             <div class="card-header d-flex justify-content-between">
-                Categories
+                Categories (Admin)
                 <a class="btn btn-outline-success" href="${pageContext.request.contextPath}/Admin/Category/Add" role="button">
                     <i class="fa fa-plus" aria-hidden="true"></i>
                     Add Category
